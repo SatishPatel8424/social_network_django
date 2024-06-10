@@ -6,7 +6,7 @@ Social Network APIs
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/SatishPatel8424/social_network.git
+   git clone https://github.com/SatishPatel8424/social_network_django.git
 
 2. Create and activate a virtual environment (optional):
    ```bash
